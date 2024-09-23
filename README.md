@@ -1,4 +1,4 @@
-# Static site for wahl  line products promo
+# Static site for wahl  line of products promo
 ## Built with
 * html
 * css
